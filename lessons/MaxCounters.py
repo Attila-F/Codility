@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Correctness: 100%
-# Performance: 100%
-# Complexity: O(N+M)
-
 def solution(N, A):
     highest_ctr = 0
     counters = [0] * N
