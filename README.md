@@ -6,8 +6,9 @@
 - [x] MaxCounters
 - [x] MissingInteger
 #### Prefix sums
+- [x] PassingCars
 - [x] CountDiv
-
+- [x] GenomicRangeQuery
 ## Exercises
 #### Data structures
 - [x] CountriesCount
